@@ -1,0 +1,162 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: url('../imagens/background.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.cabecalho {
+    text-align: center;
+    padding: 60px 0;
+}
+
+.cabecalho h1 {
+    color: rgb(255, 215, 0);
+    font-size: 40px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    
+}
+
+.personagens-slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+
+.lista-personagens {
+    width: 330px;
+    height: 520px;
+    position: relative;
+}
+
+.btn-seta {
+    text-decoration: none;
+    border-radius: 50px;
+    width: 70px;
+    height: 70px;
+    border: 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.2s ease-in-out;
+    box-shadow: rgba(188, 188, 202, 0.2) 0px 7px 29px 0px;
+}
+
+.btn-seta.btn-voltar {
+    transform: rotateY(180deg);
+}
+
+.btn-seta:hover {
+    background-color: #c74747;
+}
+
+.cartao {
+    opacity: 0;
+    height: 100%;
+    position: absolute;
+    padding: 2px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+    transition: opacity 0.3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.cartao.selecionado {
+    opacity: 1;
+    z-index: 1;
+}
+
+.cartao .imagem-personagem{
+    width: 100%;
+    max-height: 280px;
+}
+
+.cartao .nome {
+    background-color: rgba(179, 177, 185, 0.7);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    letter-spacing: 3px;
+    color:rgba(255, 255, 255, 1);
+    padding: 8px 10px; 
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.cartao .descricao {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.cartao .descricao .titulo {
+    background-color: #333333;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 12px;
+}
+
+.cartao .descricao .texto {
+    font-size: 14px;
+    padding: 12px;
+    text-align: justify;
+    max-height: 110px;
+    overflow-y: auto;
+}
+
+.cartao.fundo-1 {
+    background: url('../imagens/Yamamoto\ \(1\).jpg') no-repeat;
+}
+
+.cartao.fundo-2 {
+    background: url('../imagens/soifong.jpg') no-repeat;
+}
+
+.cartao.fundo-3 {
+    background: url('../imagens/rojuro.jpg') no-repeat;
+}
+
+.cartao.fundo-4 {
+    background: url('../imagens/unohana.jpg') no-repeat;
+}
+
+.cartao.fundo-5 {
+    background: url('../imagens/shinji.jpg') no-repeat;
+}
+
+.cartao.fundo-6 {
+    background: url('../imagens/byakuya.jpg') no-repeat;
+}
+
+.cartao.fundo-7 {
+    background: url('../imagens/komamura.jpg') no-repeat;
+}
+
+.cartao.fundo-8 {
+    background: url('../imagens/kyoraku.jpg') no-repeat;
+}
+
+.cartao.fundo-9 {
+    background: url('../imagens/kensei.jpg') no-repeat;
+}
+
+.cartao.fundo-10 {
+    background: url('../imagens/toshiro.jpg') no-repeat;
+}
+
+.cartao.fundo-11 {
+    background: url('../imagens/zaraki.jpg') no-repeat;
+}
+
+.cartao.fundo-12 {
+    background: url('../imagens/mayuri.jpg') no-repeat;
+}
+
+.cartao.fundo-13 {
+    background: url('../imagens/rukia.jpg') no-repeat;
+}
