@@ -12,7 +12,7 @@ body {
 }
 
 .cabecalho h1 {
-    color: rgb(255, 215, 0);
+    color: #ffffff;
     font-size: 40px;
     letter-spacing: 5px;
     text-transform: uppercase;
@@ -110,53 +110,53 @@ body {
 }
 
 .cartao.fundo-1 {
-    background: url('../imagens/Yamamoto\ \(1\).jpg') no-repeat;
+    background: url('../imagens/ceu-vermelho.jpg') no-repeat;
 }
 
 .cartao.fundo-2 {
-    background: url('../imagens/soifong.jpg') no-repeat;
+    background: url('../imagens/ceu-vermelho.jpg') no-repeat;
 }
 
 .cartao.fundo-3 {
-    background: url('../imagens/rojuro.jpg') no-repeat;
+    background: url('../imagens/ceu-vermelho.jpg') no-repeat;
 }
 
 .cartao.fundo-4 {
-    background: url('../imagens/unohana.jpg') no-repeat;
+    background: url('../imagens/ceu-vermelho.jpg') no-repeat;
 }
 
 .cartao.fundo-5 {
-    background: url('../imagens/shinji.jpg') no-repeat;
+    background: url('../imagens/ceu-vermelho.jpg') no-repeat;
 }
 
 .cartao.fundo-6 {
-    background: url('../imagens/byakuya.jpg') no-repeat;
+    background: url('../imagens/ceu-vermelho.jpg') no-repeat;
 }
 
 .cartao.fundo-7 {
-    background: url('../imagens/komamura.jpg') no-repeat;
+    background: url('../imagens/ceu-vermelho.jpg') no-repeat;
 }
 
 .cartao.fundo-8 {
-    background: url('../imagens/kyoraku.jpg') no-repeat;
+    background: url('../imagens/ceu-vermelho.jpg') no-repeat;
 }
 
 .cartao.fundo-9 {
-    background: url('../imagens/kensei.jpg') no-repeat;
+    background: url('../imagens/ceu-vermelho.jpg') no-repeat;
 }
 
 .cartao.fundo-10 {
-    background: url('../imagens/toshiro.jpg') no-repeat;
+    background: url('../imagens/ceu-vermelho.jpg') no-repeat;
 }
 
 .cartao.fundo-11 {
-    background: url('../imagens/zaraki.jpg') no-repeat;
+    background: url('../imagens/ceu-vermelho.jpg') no-repeat;
 }
 
 .cartao.fundo-12 {
-    background: url('../imagens/mayuri.jpg') no-repeat;
+    background: url('../imagens/ceu-vermelho.jpg') no-repeat;
 }
 
 .cartao.fundo-13 {
-    background: url('../imagens/rukia.jpg') no-repeat;
+    background: url('../imagens/ceu-vermelho.jpg') no-repeat;
 }
