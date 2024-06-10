@@ -3,4 +3,4 @@
 # Os 13 capitães da Soul Society 🏯
 
 ### Sobre o projeto
-  Esse projeto foi desenvolvido durante a [`Semana do Zero ao Programador Contratado`](https://devemdobro.com), disponibilizado pelo [`Dev em Dobro`](https://www.alura.com.br/).
+  Esse projeto foi desenvolvido durante a [`Semana do Zero ao Programador Contratado`](https://devemdobro.com), disponibilizado pelo [`Dev em Dobro`](https://www.youtube.com/@DevemDobro).
