@@ -1,15 +1,9 @@
-<img width=100% alt="blue_waves_head" src="https://capsule-render.vercel.app/api?type=waving&color=2132a6&height=120&section=header"/>
-
 # Os 13 capitães da Soul Society 🏯
 
 ### Sobre o projeto 
   Esse projeto foi desenvolvido durante a [`Semana do Zero ao Programador Contratado`](https://devemdobro.com), disponibilizado pelo [`Dev em Dobro`](https://www.youtube.com/@DevemDobro). Ele foi desenvolvido utilizando as tecnologias de HTML, CSS e JavaScript, o site oferece uma experiência interativa e visualmente atraente para os fãs explorarem informações detalhadas sobre cada capitão.
 
-![shinigamis](https://github.com/EricHidekiMiyahara/projeto-xdevs-capitaesbleach/assets/139871798/948a8bda-9c31-43b2-b705-b343242e9a1e)
-
-<div align="center"
-img src="https://github.com/EricHidekiMiyahara/projeto-xdevs-capitaesbleach/assets/139871798/948a8bda-9c31-43b2-b705-b343242e9a1e" width="700px" />
-</div>
+https://github.com/EricHidekiMiyahara/projeto-xdevs-capitaesbleach/assets/139871798/db1c31ae-3fb1-4c4f-b6d5-69e110d6a415
 
 ##
 
