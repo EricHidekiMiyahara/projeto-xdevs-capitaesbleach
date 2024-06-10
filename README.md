@@ -1,7 +1,7 @@
 # Os 13 capitães da Soul Society 🏯
 
 ### Sobre o projeto 
-  Esse projeto foi desenvolvido durante a [`Semana do Zero ao Programador Contratado`](https://devemdobro.com), disponibilizado pelo [`Dev em Dobro`](https://www.youtube.com/@DevemDobro). Ele foi desenvolvido utilizando as tecnologias de HTML, CSS e JavaScript, o site oferece uma experiência interativa e visualmente atraente para os fãs explorarem informações simples sobre cada capitão.
+  Esse projeto foi desenvolvido durante a [`Semana do Zero ao Programador Contratado`](https://devemdobro.com), disponibilizado pelo [`Dev em Dobro`](https://www.youtube.com/@DevemDobro). Ele foi desenvolvido utilizando as tecnologias de HTML, CSS e JavaScript e feito por meio do Visual Studio Code. O site oferece uma experiência interativa e visualmente atraente para os fãs explorarem informações simples sobre cada capitão.
 
 https://github.com/EricHidekiMiyahara/projeto-xdevs-capitaesbleach/assets/139871798/6eb61cdd-726f-4bbb-bbae-7ba46edf729e
 
