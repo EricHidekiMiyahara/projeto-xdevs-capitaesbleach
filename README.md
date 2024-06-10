@@ -5,7 +5,12 @@
 ### Sobre o projeto 
   Esse projeto foi desenvolvido durante a [`Semana do Zero ao Programador Contratado`](https://devemdobro.com), disponibilizado pelo [`Dev em Dobro`](https://www.youtube.com/@DevemDobro). Ele foi desenvolvido utilizando as tecnologias de HTML, CSS e JavaScript, o site oferece uma experiência interativa e visualmente atraente para os fãs explorarem informações detalhadas sobre cada capitão.
 
-[!Imagem dos 13 capitães](shinigamis.png)
+![shinigamis](https://github.com/EricHidekiMiyahara/projeto-xdevs-capitaesbleach/assets/139871798/948a8bda-9c31-43b2-b705-b343242e9a1e)
+
+<div align="center"
+img src="https://github.com/EricHidekiMiyahara/projeto-xdevs-capitaesbleach/assets/139871798/948a8bda-9c31-43b2-b705-b343242e9a1e" width="700px" />
+</div>
+
 ##
 
 ### Descrição 👨‍💻
