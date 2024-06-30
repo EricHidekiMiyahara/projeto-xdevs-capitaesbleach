@@ -13,18 +13,46 @@ https://github.com/EricHidekiMiyahara/projeto-xdevs-capitaesbleach/assets/139871
 ## 
 
 ### Tecnologias usadas 🖥️
-* HTML
-* CSS
-* JavaScript
-* Visual Studio Code
+
+<table>
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JavaScript</td>
+    <td>Visual Studio Code</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>3</td>
+    <td>ES2021</td>
+    <td>1.90.2</td>
+  </tr>
+HTML
+CSS
+JavaScript
+Visual Studio Code
+</table>
 
 ## 
 
 ### Observações 🔍
-* Quando você clicar até depois do último personagem, não vai aparecer o primeiro personagem novamente, pois no Java Script foi delimitado até esse último.
-* Quando você clicar antes do primeiro personagem, vai continuar aparecendo o primeiro personagem, pois no Java Script foi delimitado.
++ Quando você clicar até depois do último personagem, não vai aparecer o primeiro personagem novamente, pois no Java Script foi delimitado até esse último.
++ Quando você clicar antes do primeiro personagem, vai continuar aparecendo o primeiro personagem, pois no Java Script foi delimitado.
   
 ## 
+
+### Como rodar o projeto 🔁
+
+1) Baixe o Visual Studio Code.
+2) Baixe as imagens dos 13 capitães da Soul Society na pasta imagens, dentro da pasta src.
+3) Crie um arquivo index.html e pegue o código da seção index.html e cole nele.
+4) Crie uma pasta chamada src e dentro dela crie uma pasta chamada css e uma pasta chamada imagens e outra pasta chamada js.
+5) Dentro da pasta css, crie os arquivos estilo.css, reset.css e responsivo.css. Pegue os códigos dos mesmos nomes de arquivos e cole nos arquivos que criou.
+6) Dentro da pasta imagens, coloque as imagens dos 13 capitães da Soul Society.
+7) Dentro da pasta js, crie o arquivo index.js. Pegue os códigos do mesmo nome de arquivo e cole nos arquivo que criou.
+8) Baixe a extensão Live Server.
+9) Roda aquela extensão no ícone chamado Go Live, no canto inferior direito para abrir o site.
+10) Verifique se as imagens podem ser avançadas ou recuadas quando clica nas setas.
 
 ### Conclusão ⛩️
   Criar este projeto foi uma experiência incrível e uma oportunidade para combinar minha paixão por Bleach com o desenvolvimento web. Eu quis capturar a essência dos 13 Capitães e apresentar suas histórias de uma forma que os fãs do anime realmente apreciem. Foi um prazer trabalhar neste projeto, e estou animado para compartilhar este trabalho com a comunidade de fãs de Bleach.
